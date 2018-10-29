@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<!--<footer class="footer">
+    <div class="container">
+
+    </div>
+</footer>-->
+
+<nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <p class="navbar-text">Empire - Developed by Grzegorz Filewicz 2018 </p>
+        <ul class="nav navbar-nav navbar-right"> 
+            <li><a href="regulations.jsp">Regulamin</a></li>
+            <li><a href="info.jsp">O Stronie</a></li>
+            <li><a href="examplesPlayer.jsp">Podgląd bazy danych</a></li>
+        </ul>
+    </div>
+</nav>
